@@ -1,4 +1,3 @@
-# Task 15
 # Creating a fun game using Pygame.
 
 # Importing the game library with required functions for the program.
